@@ -23,7 +23,7 @@ Contains a matrix class, which defines:
 
 ## `gauss.h`
 
-Solves a systems of linear equations. Also known as row reduction, this method can be used to compute:
+Solves a system of linear equations. Also known as row reduction, this method can compute:
 
 - rank of a matrix
 - determinant of a square matrix
