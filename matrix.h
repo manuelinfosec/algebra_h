@@ -10,8 +10,6 @@
 
 #define MATRIX_H
 
-// I feel bad for including a whole header just for std::swap
-// But it's far more efficient in most use cases than what I'd write myself...
 
 #include <algorithm>
 #include <cassert>
